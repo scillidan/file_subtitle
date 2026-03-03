@@ -1,2 +1,3 @@
-English Subtitles: Red Bee Media Ltd
-Chinese Subtitles: gemma3:12b, translate from English Subtitles
+English subtitles: Red Bee Media Ltd
+English proofread: scillidan
+Chinese subtitles: Machine translation, translate from English Subtitles
