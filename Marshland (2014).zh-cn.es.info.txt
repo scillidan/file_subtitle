@@ -9,4 +9,4 @@
 5. 时间轴的宽度对齐音频，不进行前后延长
 6. 译文的语序试图对齐原文（音轨）
 7. 等等
-我可能是为了将字幕从属于视频，并且将它视为“视频音轨的即时文字转写的一种参考”。另一方面也想实际试用字典工具，对过程感兴趣的话，可以去看[make-la.isla.minima.2014.zh-cn.es.ass.md](https://scillidan.github.io/YAFA-site/blog/make-la.isla.minima.2014.zh-cn.es.ass/]。
+我（当时）可能是为了将字幕从属于视频，并且将它视为“视频音轨的即时文字转写的一种参考”。另一方面也想实际试用字典工具，对过程感兴趣的话，可以去看[make-la.isla.minima.2014.zh-cn.es.ass.md](https://scillidan.github.io/YAFA-site/blog/make-la.isla.minima.2014.zh-cn.es.ass/]。
